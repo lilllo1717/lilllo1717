@@ -40,4 +40,4 @@ I'm Tanja (Tatiana), a software engineering student at Codam.
 |--------|-------------|
 | [webserv](https://github.com/lilllo1717/webserv) | HTTP web server written in C++ (inspired by Nginx). Handles sockets, requests, responses, configuration files, and multiple clients. [Group project]|
 | [LeetCode](https://github.com/lilllo1717/leetcode) | Diving deeper into DSA by solving LeetCode problems.  🔥🔥|
-| [no repo yet]() | Obstacle avoiding robotic car [Electronics CLub, Group project]| 
+| [Robot Car](https://github.com/lilllo1717/Electronics_club_car) | Obstacle avoiding robotic car [Electronics CLub, Group project]| 
