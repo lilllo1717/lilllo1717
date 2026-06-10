@@ -11,7 +11,6 @@ I'm Tanja (Tatiana), a software engineering student at Codam.
 - Changed fields from architecture to software engineering  
 - My coding journey took me through Korea → USA → Korea → Netherlands  
 - I love lower-level languages  
-- Electronics Club co-lead (a struggling beginner, thankfully I have my teammates)  
 - Had coffee and donuts with Guns N' Roses guitarist  
 
     </td>
@@ -39,5 +38,4 @@ I'm Tanja (Tatiana), a software engineering student at Codam.
 | Project | Description |
 |--------|-------------|
 | [webserv](https://github.com/lilllo1717/webserv) | HTTP web server written in C++ (inspired by Nginx). Handles sockets, requests, responses, configuration files, and multiple clients. [Group project]|
-| [LeetCode](https://github.com/lilllo1717/leetcode) | Diving deeper into DSA by solving LeetCode problems.  🔥🔥|
 | [Robot Car](https://github.com/lilllo1717/Robot_car) | Obstacle avoiding robotic car
